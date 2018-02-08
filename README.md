@@ -13,7 +13,7 @@ Orlando, Florida
 $15,000
 
 # Length of the Trip
-1 week 
+1 week June 8th - 15th
 
 # Purpose of the Trip
-The purpose of this trip is to experience the great city of Orlando. We will be visiting Universal Studios and other great attractions in Orlando.
+The purpose of this trip is to experience the great city of Orlando. We will be visiting Universal Studios and other great attractions in Orlando. Specific plans TBD.
