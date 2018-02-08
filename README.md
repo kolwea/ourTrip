@@ -2,9 +2,9 @@
 A plan for our trip to Orlando, Florida.
 
 # Participants/Team Members
-* Kolbe Weathington
-* Sam Burnett
-* Max Taylor
+* Kolbe Weathington (Scrum Master)
+* Sam Burnett 
+* Max Taylor (Product Owner)
 
 # Destination
 Orlando, Florida
